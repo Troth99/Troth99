@@ -29,20 +29,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Troth99&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
----
 
 ## 🔗 Connect with Me
 
 - 📫 Email: `troth99@example.com`
-- 💼 LinkedIn: [linkedin.com/in/troth99](https://linkedin.com/in/troth99)
 - 🌐 Portfolio: [troth99.dev](https://troth99.dev)
 
 ---
