@@ -9,10 +9,10 @@
 
 ## 🧑‍💻 About Me
 
-👨‍💻 Aspiring web developer dedicated to creating performant and accessible web applications
-🎯 Enthusiastic about JavaScript, TypeScript, and innovative front-end frameworks
-🖌️ Advocate for clean code, responsive design, and intuitive user experiences
-📚 Always eager to learn new technologies and improve my development skills
+Aspiring web developer focused on building performant and accessible web applications.  
+🎯 Passionate about JavaScript, TypeScript, and cutting-edge front-end frameworks.  
+🖌️ Advocate for clean code, responsive design, and seamless user experiences.  
+📚 Constantly learning new technologies and improving my development skills.
 
 ---
 
