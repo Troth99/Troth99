@@ -9,10 +9,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm currently studying/working in the field of web development
-- 💡 Passionate about modern front-end technologies, clean UI/UX, and building useful digital products
-- 🔍 Focused on JavaScript, TypeScript, and frameworks like React
-- 🚀 Constantly learning and improving my skills
+👨‍💻 Aspiring web developer dedicated to creating performant and accessible web applications
+🎯 Enthusiastic about JavaScript, TypeScript, and innovative front-end frameworks
+🖌️ Advocate for clean code, responsive design, and intuitive user experiences
+📚 Always eager to learn new technologies and improve my development skills
 
 ---
 
@@ -20,21 +20,23 @@
 
 ### Languages & Tools
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+
 
 
 
 ## 🔗 Connect with Me
 
-- 📫 Email: `troth99@example.com`
+- 📫 Email: `trothlol123456@gmail.com`
 - 🌐 Portfolio: [troth99.dev](https://troth99.dev)
 
 ---
