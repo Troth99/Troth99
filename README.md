@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Troth99 👋</h1>
 
 <p align="center">
-  A passionate Front-End Developer | JavaScript & TypeScript Enthusiast | Lifelong Learner
+  Enthusiastic Front-End Developer with a deep love for JavaScript and TypeScript. Always eager to learn new technologies and improve user experiences.
 </p>
 
 ---
