@@ -1,3 +1,4 @@
+![my animation](assets/animation.gif)
 <h1 align="center">Hi there, I'm Troth99 👋</h1>
 
 <p align="center">
